@@ -1,11 +1,11 @@
 [
   {
     "menuId": 1,
-    "menuImageUrl": "/assets/img/menu_1.jpg"
+    "menuImageUrl": "/mycafe/assets/img/menu_1.jpg"
   },
   {
     "menuId": 2,
-    "menuImageUrl": "/assets/img/menu_2.jpg"
+    "menuImageUrl": "/mycafe/assets/img/menu_2.jpg"
   },
   {
     "menuId": 3,
