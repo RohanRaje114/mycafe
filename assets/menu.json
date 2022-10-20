@@ -1,0 +1,74 @@
+[
+    {
+      "menuId": 1,
+      "menuName": "Black Coffee",
+      "menuType": "Coffee",
+      "menuPrice": 200,
+      "menuMDate": "2021-8-12",
+      "menuImageUrl": "/assets/img/menu_1.jpg",
+      "menuRating": 3
+    },
+    {
+      "menuId": 2,
+      "menuName": "Chocolate Coffee",
+      "menuType": "Coffee",
+      "menuPrice": 250,
+      "menuMDate": "2021-5-10",
+      "menuImageUrl": "/assets/img/menu_2.jpg",
+      "menuRating": 5
+    },
+    {
+      "menuId": 3,
+      "menuName": "Roasted Tomato Basil Soup",
+      "menuPrice": 270,
+      "menuImageUrl": "/assets/img/menu_3.jpg",
+      "menuType": "Salads & Soups",
+      "menuMDate": "2019-5-15",
+      "menuRating": 2.6
+    },
+    {
+      "menuId": 4,
+      "menuName": "Avocado Feta Salad",
+      "menuPrice": 445,
+      "menuImageUrl": "/assets/img/menu_4.jpg",
+      "menuType": "Salads & Soups",
+      "menuMDate": "2020-8-22",
+      "menuRating": 4.6
+    },
+    {
+      "menuId": 5,
+      "menuName": "Mushroom Soup",
+      "menuPrice": 420,
+      "menuImageUrl": "/assets/img/menu_5.jpg",
+      "menuType": "Salads & Soups",
+      "menuMDate": "2021-1-5",
+      "menuRating": 0.5
+    },
+    {
+      "menuId": 6,
+      "menuName": "Bombay Gilled Sandwich",
+      "menuPrice": 250,
+      "menuImageUrl": "/assets/img/menu_6.jpg",
+      "menuType": "Sandwiches",
+      "menuMDate": "2020-1- 2",
+      "menuRating": 1
+    },
+    {
+      "menuId": 7,
+      "menuName": "Avocado Sandwich",
+      "menuPrice": 375,
+      "menuImageUrl": "/assets/img/menu_7.jpg",
+      "menuType": "Sandwiches",
+      "menuMDate": "2020-0-27",
+      "menuRating": 2.9
+    },
+    {
+      "menuId": 8,
+      "menuName": "Cottage Cheese Sandwich",
+      "menuPrice": 290,
+      "menuImageUrl": "/assets/img/menu_8.jpg",
+      "menuType": "Sandwiches",
+      "menuMDate": "2018-1-28",
+      "menuRating": 3.5
+    }
+  ]
